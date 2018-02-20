@@ -1,4 +1,3 @@
-import sklearn as skl
 from sklearn.ensemble import RandomForestClassifier
 import pandas as pd
 import numpy as np
